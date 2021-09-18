@@ -1,0 +1,307 @@
+[Commandbar Hotkeys 00]
+HeroOnly=0
+Hotkey=81
+MetaKeyState=0
+QuickCast=0
+
+[Commandbar Hotkeys 01]
+HeroOnly=0
+Hotkey=87
+MetaKeyState=0
+QuickCast=0
+
+[Commandbar Hotkeys 02]
+HeroOnly=0
+Hotkey=69
+MetaKeyState=0
+QuickCast=0
+
+[Commandbar Hotkeys 03]
+HeroOnly=0
+Hotkey=82
+MetaKeyState=0
+QuickCast=0
+
+[Commandbar Hotkeys 10]
+HeroOnly=0
+Hotkey=65
+MetaKeyState=0
+QuickCast=0
+
+[Commandbar Hotkeys 11]
+HeroOnly=1
+Hotkey=83
+MetaKeyState=0
+QuickCast=0
+
+[Commandbar Hotkeys 12]
+HeroOnly=1
+Hotkey=68
+MetaKeyState=0
+QuickCast=0
+
+[Commandbar Hotkeys 13]
+HeroOnly=1
+Hotkey=84
+MetaKeyState=0
+QuickCast=0
+
+[Commandbar Hotkeys 20]
+HeroOnly=1
+Hotkey=81
+MetaKeyState=0
+QuickCast=0
+
+[Commandbar Hotkeys 21]
+HeroOnly=1
+Hotkey=87
+MetaKeyState=0
+QuickCast=0
+
+[Commandbar Hotkeys 22]
+HeroOnly=1
+Hotkey=69
+MetaKeyState=0
+QuickCast=0
+
+[Commandbar Hotkeys 23]
+HeroOnly=1
+Hotkey=82
+MetaKeyState=0
+QuickCast=0
+
+[Custom Hotkeys 0]
+FromHotkey=0
+FromKeyEnabled=0
+FromMetaKeyState=0
+HeroOnly=0
+ToHotkey=0
+ToKeyEnabled=0
+ToMetaKeyState=0
+
+[Custom Hotkeys 1]
+FromHotkey=0
+FromKeyEnabled=0
+FromMetaKeyState=0
+HeroOnly=0
+ToHotkey=0
+ToKeyEnabled=0
+ToMetaKeyState=0
+
+[Custom Hotkeys 2]
+FromHotkey=0
+FromKeyEnabled=0
+FromMetaKeyState=0
+HeroOnly=0
+ToHotkey=0
+ToKeyEnabled=0
+ToMetaKeyState=0
+
+[Custom Hotkeys 3]
+FromHotkey=0
+FromKeyEnabled=0
+FromMetaKeyState=0
+HeroOnly=0
+ToHotkey=0
+ToKeyEnabled=0
+ToMetaKeyState=0
+
+[Custom Hotkeys 4]
+FromHotkey=0
+FromKeyEnabled=0
+FromMetaKeyState=0
+HeroOnly=0
+ToHotkey=0
+ToKeyEnabled=0
+ToMetaKeyState=0
+
+[Custom Hotkeys 5]
+FromHotkey=0
+FromKeyEnabled=0
+FromMetaKeyState=0
+HeroOnly=0
+ToHotkey=0
+ToKeyEnabled=0
+ToMetaKeyState=0
+
+[Custom Hotkeys 6]
+FromHotkey=0
+FromKeyEnabled=0
+FromMetaKeyState=0
+HeroOnly=0
+ToHotkey=0
+ToKeyEnabled=0
+ToMetaKeyState=0
+
+[Custom Hotkeys 7]
+FromHotkey=0
+FromKeyEnabled=1
+FromMetaKeyState=0
+HeroOnly=0
+ToHotkey=0
+ToKeyEnabled=1
+ToMetaKeyState=0
+
+[Gameplay]
+allyFilter=2
+ammmaphashes=
+ammmapprefs=
+ammrace=32
+ammstyles=
+ammtype=0
+autosaveReplay=1
+coloredhealthbars=0
+creepFilter=1
+customfilter=0
+customkeys=1
+custommask=0
+displayapm=1
+displayfps=0
+displayping=1
+formations=0
+formationtoggle=1
+gamespeed=2
+healthbars=1
+herobar=1
+heroframes=1
+herolevel=1
+multiboardon=1
+netgameport=6112
+numericCooldown=1
+occlusion=0
+schedrace=32
+subgrouporder=1
+terrainFilter=1
+tooltips=1
+
+[Input]
+confinemousecursor=2
+keyscroll=50
+mousescroll=50
+mousescrolldisable=0
+reducemouselag=0
+
+[Inventory Hotkeys 0]
+HeroOnly=1
+Hotkey=90
+MetaKeyState=0
+QuickCast=1
+
+[Inventory Hotkeys 1]
+HeroOnly=1
+Hotkey=88
+MetaKeyState=0
+QuickCast=1
+
+[Inventory Hotkeys 2]
+HeroOnly=1
+Hotkey=100
+MetaKeyState=0
+QuickCast=1
+
+[Inventory Hotkeys 3]
+HeroOnly=1
+Hotkey=101
+MetaKeyState=0
+QuickCast=1
+
+[Inventory Hotkeys 4]
+HeroOnly=1
+Hotkey=97
+MetaKeyState=0
+QuickCast=1
+
+[Inventory Hotkeys 5]
+HeroOnly=1
+Hotkey=98
+MetaKeyState=0
+QuickCast=1
+
+[Map]
+battlenet_V0=
+battlenet_V1=
+lan_V0=
+lan_V1=
+skirmish_V0=
+skirmish_V1=
+
+[Misc]
+bnetGateway=
+chatsupport=0
+clickedad=0
+clickedclan=0
+clickedladder=0
+clickedtourn=0
+hd=1
+legacylinkreminder=0
+offlineavatar=
+profanity=1
+seenintromovie=1
+settingsversion=2
+subtitles=1
+teen=0
+
+[Mouse Mid Button Down]
+HeroOnly=0
+ToHotkey=0
+ToKeyEnabled=0
+ToMetaKeyState=0
+
+[Mouse Wheel Down]
+HeroOnly=0
+ToHotkey=0
+ToKeyEnabled=0
+ToMetaKeyState=0
+
+[Mouse Wheel Up]
+HeroOnly=0
+ToHotkey=0
+ToKeyEnabled=0
+ToMetaKeyState=0
+
+[Sound]
+ambient=1
+assetmode=0
+donotusewaveout=0
+environmental=1
+movement=1
+music=0
+musicvolume=40
+nosoundwarn=1
+outputsounddev=-1
+outputspeakermode=-1
+positional=1
+sfx=1
+sfxvolume=100
+unit=1
+windowfocus=0
+
+[String]
+userbnet=
+userlocal=
+
+[Video]
+adapter=0
+antialiasing=0
+backgroundmaxfps=60
+colordepth=32
+foliagequality=1
+gamma=30
+lightingquality=1
+maxfps=200
+particles=1
+previouswindowmode=0
+refreshrate=60
+resetdefaults=0
+resheight=1080
+reswidth=1920
+shadowquality=1
+spellfilter=1
+texquality=1
+vsync=0
+windowheight=1361
+windowmode=1
+windowwidth=1814
+windowx=328
+windowy=54
+
